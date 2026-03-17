@@ -1,26 +1,27 @@
-# AI Reseller Inventory Liquidation Hub
+# AI Reseller Bulk Liquidation Hub
 
-Maximize your profit margins with our high-demand inventory liquidation bundles. We provide exclusive, bulk-priced access to the most popular AI and creative tools on the market.
+Maximize your profit margins with our exclusive, high-demand AI and creative tool inventory. We provide enterprise-grade bulk access to the most popular SaaS platforms, perfect for resellers looking to scale their business instantly.
 
 ## Available Reseller Bundles
 
-- **Starter Reseller ($100 USD):** Essential entry-level package for small-scale operations.
-- **Power Reseller ($200 USD):** Our best value bundle for balanced inventory needs.
-- **Elite Bulk Liquidator ($300 USD):** High-volume allocation for established resellers.
-- **Enterprise Mastery Empire ($450 USD):** Maximum capacity for massive market dominance.
+Choose the tier that fits your business volume:
 
-## Why Choose Us?
-
-* **Unbeatable Pricing:** Bulk-rate access to Gemini Pro, Perplexity, ChatGPT Plus, CapCut, and Canva.
-* **Instant Delivery:** Automated fulfillment through our Telegram VIP panel.
-* **Reliability:** Full 24-hour replacement policy for any inactive accounts.
-* **Priority Support:** Dedicated assistance for all VIP reseller partners.
+*   **Starter Reseller ($100):** 40 Gemini Pro (12m), 50 Perplexity Codes, 20 ChatGPT Plus, 10 CapCut Pro, 30 Canva Invites.
+*   **Power Reseller ($200):** 90 Gemini Pro (12m), 110 Perplexity Codes, 45 ChatGPT Plus, 20 CapCut Pro, 60 Canva Invites.
+*   **Elite Bulk Liquidator ($300):** 200 Gemini Pro (12m), 250 Perplexity Codes, 100 ChatGPT Plus, 50 CapCut Pro, 150 Canva Invites.
+*   **Enterprise Mastery Empire ($450):** 500 Gemini Pro (12m), 600 Perplexity Codes, 250 ChatGPT Plus, 120 CapCut Pro, 400 Canva Invites.
 
 ## How to Purchase
+1. Visit our automated bot: [VIP Reseller Panel Bot](https://t.me/VIPresellerPanel_Bot)
+2. Select your desired bundle from the menu.
+3. Complete payment for instant, automated delivery.
 
-1. Access our automated system: [https://t.me/VIPresellerPanel_Bot](https://t.me/VIPresellerPanel_Bot)
-2. Navigate to the bundle section.
-3. Complete the checkout for instant access to your inventory.
+## Policies
 
----
-*Disclaimer: Limited stock available. Prices are subject to current inventory levels.*
+### Replacement Guarantee
+We prioritize customer satisfaction. Receive a full replacement for any account non-functional within 24 hours of opening a support ticket.
+
+### Priority Support
+Support is exclusive to our VIP customers. Upon confirmed purchase, your delivery documentation will include direct access to our priority support channel.
+
+> **Note:** Stock is limited. Prices and inventory are subject to availability. Act quickly to secure your margins.
