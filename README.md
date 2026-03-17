@@ -1,27 +1,32 @@
 # AI Reseller Bulk Liquidation Hub
 
-Maximize your profit margins with our exclusive, high-demand AI and creative tool inventory. We provide enterprise-grade bulk access to the most popular SaaS platforms, perfect for resellers looking to scale their business instantly.
+Maximize your profit margins with our exclusive, high-demand AI and creative software bundles. We specialize in bulk inventory liquidations, providing resellers with unbeatable access to premium accounts and discount codes.
 
 ## Available Reseller Bundles
 
-Choose the tier that fits your business volume:
+We offer four tiers of inventory liquidation to fit your business scale:
 
-*   **Starter Reseller ($100):** 40 Gemini Pro (12m), 50 Perplexity Codes, 20 ChatGPT Plus, 10 CapCut Pro, 30 Canva Invites.
-*   **Power Reseller ($200):** 90 Gemini Pro (12m), 110 Perplexity Codes, 45 ChatGPT Plus, 20 CapCut Pro, 60 Canva Invites.
-*   **Elite Bulk Liquidator ($300):** 200 Gemini Pro (12m), 250 Perplexity Codes, 100 ChatGPT Plus, 50 CapCut Pro, 150 Canva Invites.
-*   **Enterprise Mastery Empire ($450):** 500 Gemini Pro (12m), 600 Perplexity Codes, 250 ChatGPT Plus, 120 CapCut Pro, 400 Canva Invites.
+*   **Starter Reseller ($100):** Entry-level inventory for small-scale distribution.
+*   **Power Reseller ($200):** Our best value bundle for growing businesses.
+*   **Elite Bulk Liquidator ($300):** High-volume accounts for established resellers.
+*   **Enterprise Mastery Empire ($450):** Maximum stock for large-scale operations.
 
-## How to Purchase
-1. Visit our automated bot: [VIP Reseller Panel Bot](https://t.me/VIPresellerPanel_Bot)
-2. Select your desired bundle from the menu.
-3. Complete payment for instant, automated delivery.
+## Why Partner With Us?
+- **High-Demand Inventory:** Featuring Gemini Pro (12 months), ChatGPT Plus, Perplexity, CapCut Pro, and Canva Pro.
+- **Instant Delivery:** Automated fulfillment via our Telegram bot.
+- **Replacement Guarantee:** Full replacement policy for any non-functional accounts reported within 24 hours.
+- **Priority Support:** Dedicated assistance for VIP resellers.
+
+## Getting Started
+
+1.  **Visit our automated bot:** [https://t.me/VIPresellerPanel_Bot](https://t.me/VIPresellerPanel_Bot)
+2.  **Select your tier** from the available catalog.
+3.  **Complete payment** for instant account access.
 
 ## Policies
 
-### Replacement Guarantee
-We prioritize customer satisfaction. Receive a full replacement for any account non-functional within 24 hours of opening a support ticket.
+**Replacement Policy:** We offer a 24-hour replacement guarantee for any issues. Please submit a ticket through our official support channel.
 
-### Priority Support
-Support is exclusive to our VIP customers. Upon confirmed purchase, your delivery documentation will include direct access to our priority support channel.
+**Support Policy:** Priority support is unlocked immediately upon successful payment confirmation. Details provided upon delivery.
 
-> **Note:** Stock is limited. Prices and inventory are subject to availability. Act quickly to secure your margins.
+*Note: Inventory is limited. Prices and availability subject to stock depletion.*
